@@ -184,7 +184,7 @@
 // -----------------------------------------------------------------------------
 
 /*
- * TASK 13: Connect Domain Name
+ * TASK 13: Connect Domain Name == Done
  *
  * Buy domain (Namecheap, GoDaddy)
  *
@@ -197,7 +197,7 @@
 
 
 /*
- * TASK 14: Enable HTTPS (SSL)
+ * TASK 14: Enable HTTPS (SSL) == Done
  *
  * Install:
  * certbot
