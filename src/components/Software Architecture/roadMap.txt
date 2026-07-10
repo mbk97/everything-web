@@ -1,0 +1,23 @@
+1. Software Architecture Fundamentals
+        ↓
+2. Scalability
+        ↓
+3. System Design
+        ↓
+4. Databases
+        ↓
+5. APIs
+        ↓
+6. Distributed Systems
+        ↓
+7. Messaging
+        ↓
+8. Caching
+        ↓
+9. Load Balancing
+        ↓
+10. Security
+        ↓
+11. Cloud
+        ↓
+12. Real-world Case Studies

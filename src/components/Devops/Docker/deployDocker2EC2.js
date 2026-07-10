@@ -265,11 +265,7 @@
 /*
  * Command:
  *
- * docker run -d \
- * --env-file .env \
- * -p 8080:8080 \
- * --name blog-api-container \
- * blog-api
+ * docker run -d \ --env-file .env \ -p 8080:8080 \ --name blog-api-container \ blog-api
  *
  *
  * Meaning:
