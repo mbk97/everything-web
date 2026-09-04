@@ -26,7 +26,7 @@
 // -----------------------------------------------------------------------------
 /*
  * Absolute path:
- * Starts from /
+ * Starts from / 
  *
  * Example:
  * /etc/nginx/nginx.conf
@@ -71,14 +71,14 @@
  * find . -iname "*.env"
  * find . -size +100M
  * find . -mtime -1
- *
+ 
  * Meaning:
  * -type f     → files only
  * -type d     → directories only
  * -iname      → case-insensitive name
  * -size +100M → bigger than 100 MB
  * -mtime -1   → modified in last 24 hours
- *
+ 
  * Production examples:
  * - Find giant logs eating disk
  * - Find duplicate config files
