@@ -1,23 +1,53 @@
-1. Software Architecture Fundamentals
+SOFTWARE ARCHITECTURE LEARNING ROADMAP
+
+[x] 1. Architecture Fundamentals
+    Architecture Fundamentals/ArchitectureFundamentals.js
         ↓
-2. Scalability
+[x] 2. Scalability, Reliability, and Load Balancing
+    Scalability and Reliability/ScalabilityAndReliability.js
+    introduction.js
+    NginxLoadBalancer.js
         ↓
-3. System Design
+[x] 3. Caching
+    Caching.js
         ↓
-4. Databases
+[x] 4. API Design and API Gateway
+    API Design/ApiDesign.js
+    ApiGateway.js
         ↓
-5. APIs
+[x] 5. Databases
+    Databases.js
         ↓
-6. Distributed Systems
+[x] 6. Distributed Systems
+    Dustributed-systems.js
         ↓
-7. Messaging
+[x] 7. Messaging and Event-Driven Work
+    messaging_queues.js
         ↓
-8. Caching
+[x] 8. Microservices and Micro-Frontends
+    Microservices/Microservices.js
+    Microfrontends/Microfrontends.js
         ↓
-9. Load Balancing
+[x] 9. Cloud Architecture
+    Cloud Architecture/CloudArchitecture.js
         ↓
-10. Security
+[x] 10. Security Architecture
+    Security Architecture/SecurityArchitecture.js
         ↓
-11. Cloud
+[x] 11. Observability and Operations
+    Observability/Observability.js
         ↓
-12. Real-world Case Studies
+[x] 12. System Design Method
+    System Design Method/SystemDesignMethod.js
+        ↓
+[x] 13. Real-World Case Studies
+    Case Studies/UrlShortener.js
+    Case Studies/PaymentSystem.js
+
+HOW TO STUDY EACH LESSON
+
+1. Read the mindset shift and problem before looking at the solution.
+2. Redraw every architecture diagram without copying it.
+3. Explain each tradeoff aloud in your own words.
+4. Complete the practice tasks before moving to the next phase.
+5. Revisit the case studies and replace one design decision with an alternative.

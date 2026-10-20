@@ -4,16 +4,19 @@
 //
 // COURSE STRUCTURE
 //
-// Phase 1 → Architecture Fundamentals
-// Phase 2 → Load Balancers
-// Phase 3 → Caching
-// Phase 4 → API Gateway
-// Phase 5 → Databases
-// Phase 6 → Distributed Systems
-// Phase 7 → Messaging Queues
-// Phase 8 → Microservices
-// Phase 9 → Cloud Architecture
-// Phase 10 → System Design Interviews
+// Phase 1  → Architecture Fundamentals
+// Phase 2  → Scalability, Reliability & Load Balancing
+// Phase 3  → Caching
+// Phase 4  → API Design & API Gateway
+// Phase 5  → Databases
+// Phase 6  → Distributed Systems
+// Phase 7  → Messaging Queues
+// Phase 8  → Microservices & Micro-Frontends
+// Phase 9  → Cloud Architecture
+// Phase 10 → Security Architecture
+// Phase 11 → Observability & Operations
+// Phase 12 → System Design Method
+// Phase 13 → Real-World Case Studies
 //
 // -----------------------------------------------------------------------------
 
